@@ -15,3 +15,4 @@ read -t 10
 # git add Tutorial2 https://github.com/Adamabr/lab2.git
 12
 # git push --set-upstream origin master
+# git branch New master
