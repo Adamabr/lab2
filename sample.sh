@@ -11,6 +11,7 @@ read -t 10
 #git config --global user.email "adamabertrand@cmail.carleton.ca"
 # git config --global user.name "adamabr"
 # https://github.com/Adamabr/lab2.git
-# git remote add origin https: https://github.com/Adamabr/lab2.git
+# git remote add origin https://github.com/Adamabr/lab2.git
 # git add Tutorial2 https://github.com/Adamabr/lab2.git
 12
+# git push --set-upstream origin master
