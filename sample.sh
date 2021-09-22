@@ -15,6 +15,10 @@ read -t 10
 # git add Tutorial2 https://github.com/Adamabr/lab2.git
 12
 # git push --set-upstream origin master
+<<<<<<< HEAD
+# git branch New master
+=======
 2
 # git clone repo-https://github.com/Adamabr/lab2.git
 vre
+>>>>>>> master
