@@ -16,3 +16,5 @@ read -t 10
 12
 # git push --set-upstream origin master
 2
+# git clone repo-https://github.com/Adamabr/lab2.git
+vre
